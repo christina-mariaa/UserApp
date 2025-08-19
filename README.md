@@ -10,7 +10,7 @@
 - Удаление пользователя.
 
 ### Технологии
-- C# 10 / .NET 6 (Console App)
+- C# / .NET 8 (Console App)
 - ADO.NET (SqlConnection, SqlCommand, SqlDataReader)
 - MS SQL Server (таблицы + хранимые процедуры)
 
